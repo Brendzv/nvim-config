@@ -1,7 +1,7 @@
-###Welcome!
+### Welcome!
 
 This is my personal nvim plugins configurations using vim-plug
 
-##Features
+## Features
 - Nord Theme
 - NerdTree
